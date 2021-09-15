@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShareBlood</string>
+    <string name="name">Nama</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="password_confirm">Konfirmasi Password</string>
+    <string name="blood_type">Golongan Darah</string>
+    <string name="register">Daftar</string>
+    <string name="msg_login_success">Login sukses!</string>
+    <string name="msg_login_failed">Email dan Password tidak terdaftar.</string>
+    <string name="msg_input_not_valid">Anda harus mengisi semua data!</string>
+    <string name="msg_password_not_match">Password tidak cocok dengan konfirmasi!</string>
+    <string name="msg_register_success">Daftar berhasil, anda dapat login sekarang.</string>
+</resources>

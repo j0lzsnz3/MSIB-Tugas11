@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">ShareBlood</string>
-    <string name="password">Password</string>
+    <string name="password" translatable="false">Password</string>
     <string name="name">Name</string>
     <string name="email_address">Email Address</string>
     <string name="password_confirm">Password Confirm</string>
     <string name="blood_type">Blood Type</string>
     <string name="register">Register</string>
-    <string name="login">Login</string>
+    <string name="login" translatable="false">Login</string>
     <string name="msg_login_success">Login success!</string>
     <string name="msg_login_failed">Email and Password not registered.</string>
     <string name="msg_input_not_valid">You need to input all fields!</string>
